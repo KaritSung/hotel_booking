@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "payment_name": "Debit Card",
+        "payment_img": "/img/icon/dabit.png"
+    },
+    {
+        "id": 2,
+        "payment_name": "UPI",
+        "payment_img": "/img/icon/upi.png"
+    },
+    {
+        "id": 3,
+        "payment_name": "PhonePay",
+        "payment_img": "/img/icon/phonepay.png"
+    },
+    {
+        "id": 4,
+        "payment_name": "Net Banking",
+        "payment_img": "/img/icon/netbank.png"
+    },
+    {
+        "id": 5,
+        "payment_name": "Credit Card",
+        "payment_img": "/img/icon/credit.png"
+    }
+]

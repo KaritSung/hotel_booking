@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "hotel_name": "Nobu Hotel Chicago",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_1.png"
+    },
+    {
+        "id": 2,
+        "hotel_name": "The Langham, Chicago",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_2.png"
+    },
+    {
+        "id": 3,
+        "hotel_name": "Trump International Hotel",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_3.png"
+    },
+    {
+        "id": 4,
+        "hotel_name": "The Guesthouse Hotel",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_4.png"
+    },
+    {
+        "id": 5,
+        "hotel_name": "Villa D’Citta",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_5.png"
+    },
+    {
+        "id": 6,
+        "hotel_name": "Loews Chicago Hotel",
+        "hotel_details": "Price starts from 1,000",
+        "hotel_img": "/img/bg/bg_hotel_6.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "hotel_img": "/img/bg/bg_recom_1.png",
+        "hotel_title1": "Trip to Thailand &",
+        "hotel_title2": "Get 30% off on flight booking"
+    },
+    {
+        "id": 2,
+        "hotel_img": "/img/bg/bg_recom_2.png",
+        "hotel_title1": "Get additional 25% off on",
+        "hotel_title2": "Bhutan tour fare"
+    },
+    {
+        "id": 3,
+        "hotel_img": "/img/bg/bg_recom_3.png",
+        "hotel_title1": "Trip to Thailand &",
+        "hotel_title2": "Get 30% off on flight booking"
+    },
+    {
+        "id": 4,
+        "hotel_img": "/img/bg/bg_recom_4.png",
+        "hotel_title1": "Flat 40% off on hotel bookings",
+        "hotel_title2": "in Agra"
+    }
+]
