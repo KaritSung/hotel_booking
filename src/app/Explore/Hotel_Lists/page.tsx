@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { HotelLists, RecommendedHotel } from "@/app/type/type"
 import { usePathname, useRouter } from 'next/navigation'
 
-export default function HotelLists() {
+export default function HotelListsPage() {
 
     const [hotelLists, setHotelLists] = useState<HotelLists[]>();
     const [hotelRecommended, setHotelRecommended] = useState<RecommendedHotel[]>();
