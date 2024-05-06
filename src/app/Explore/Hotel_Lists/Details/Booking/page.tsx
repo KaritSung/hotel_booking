@@ -29,26 +29,25 @@ export default function Booking() {
 
     const onSubmitHandler = async (data: any) => {
         console.log({ data });
-        const { first_name, last_name, email, mobile, special_request } = data;
-        let requestOptions: RequestInit = {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json",
-            },
-            body: JSON.stringify({ first_name, last_name, email, mobile, special_request }),
+        // const { first_name, last_name, email, mobile, special_request } = data;
+        // let requestOptions: RequestInit = {
+        //     method: "POST",
+        //     headers: {
+        //         "Content-Type": "application/json",
+        //     },
+        //     body: JSON.stringify({ first_name, last_name, email, mobile, special_request }),
 
-        };
-        let response = await fetch("/api/service", requestOptions);
-        console.log(response);
-        if (!response.ok) {
-            console.log("Error creating booking.");
-            console.log(response);
-            return;
-        }
+        // };
+        // let response = await fetch("/api/service", requestOptions);
+        // console.log(response);
+        // if (!response.ok) {
+        //     console.log("Error creating booking.");
+        //     console.log(response);
+        //     return;
+        // }
 
-        //success
-        console.log(response);
-
+        // //success
+        // console.log(response);
         router.replace('/Payment')
     };
 
